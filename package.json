@@ -1,0 +1,16 @@
+{
+  "name": "twitter-top-fans",
+  "version": "1.0.0",
+  "description": "creates an image with the users that reply to you the most",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "twitter-lite": "^0.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
